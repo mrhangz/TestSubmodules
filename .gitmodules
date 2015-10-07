@@ -1,0 +1,3 @@
+[submodule "lib/OTRKit"]
+	path = lib/OTRKit
+	url = https://github.com/ChatSecure/OTRKit.git
